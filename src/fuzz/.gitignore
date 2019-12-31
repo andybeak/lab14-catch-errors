@@ -1,0 +1,3 @@
+corpus/*
+!corpus/example_input.txt
+crash*
